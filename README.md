@@ -75,8 +75,10 @@ Add Korean Auto Correst list
 ### 2. 핵토버페스트(Hacktoberfest) 2020
 이번 행사에서는 앞서 행사와 다르게, 리브레오피스의 git저장소가 아닌 github 저장소를 만들어 진행합니다.
 
-그 이유는 많은 한국인 개발자들이 리브레오피스(LibreOffice)의 [gerrit 리뷰 시스템](gerrit.libreoffice.org/)에 익숙하지 않고, 빌드방법에 대해서도 익숙하지 않기 대문입니다. 
+그 이유는 많은 한국인 개발자들이 리브레오피스(LibreOffice)의 [gerrit 리뷰 시스템](gerrit.libreoffice.org/)에 익숙하지 않고, 빌드방법에 대해서도 익숙하지 않기 때문입니다.
+
 github에 많이 익숙한 분들에게 gerrit리뷰시스템에 파일 제출하고 리뷰어와 리뷰하는 것에 대해서 생소하게 느끼는 분이 많음을 오픈소스 컨트리뷰톤 2020행사에서 경험을 하였습니다.
+
 그리고, [핵토버페스트(Hacktoberfest)](https://hacktoberfest.digitalocean.com/)에서 Github으로 풀리퀘스트(Pull Request)를 제출해보는 행사를 진행하기 때문에, 행사 취지에 맞게 리브레오피스 우리말 모듬(LibreOffice Korean Team)의 Github저장소에 추가를 하여 커밋을 해보는 것을 진행하도록 했습니다.
 
 핵토버페스트(Hacktoberfest)행사가 마무리되면, 리브레오피스 저장소에 전달받은 자동 교정 데이터를 리브레오피스(LibreOffice)의 core 저장소(Repository)의 `extras/source/autocorr/lang/ko/DocumentList.xml` 파일에 적용할 예정입니다.
