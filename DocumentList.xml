@@ -5,6 +5,7 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
+  <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
   <block-list:block block-list:abbreviated-name="꼭둑각시" block-list:name="꼭두각시"/>
   <block-list:block block-list:abbreviated-name="나렬" block-list:name="나열"/>
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
@@ -43,8 +44,10 @@
   <block-list:block block-list:abbreviated-name="실패률" block-list:name="실패율"/>
   <block-list:block block-list:abbreviated-name="싫엇" block-list:name="싫었"/>
   <block-list:block block-list:abbreviated-name="쌍동이" block-list:name="쌍둥이"/>
+  <block-list:block block-list:abbreviated-name="씁슬한" block-list:name="씁쓸한"/>
   <block-list:block block-list:abbreviated-name="ㅇ벗다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="ㅇ벗어" block-list:name="없어"/>
+  <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="업ㅂ다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="업서용" block-list:name="없어요"/>
   <block-list:block block-list:abbreviated-name="예뿌" block-list:name="예뻐"/>
