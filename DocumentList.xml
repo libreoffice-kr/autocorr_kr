@@ -2,14 +2,17 @@
 <block-list:block-list xmlns:block-list="http://openoffice.org/2001/block-list">
   <block-list:block block-list:abbreviated-name="가운대" block-list:name="가운데"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
+  <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
+  <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
   <block-list:block block-list:abbreviated-name="꼭둑각시" block-list:name="꼭두각시"/>
   <block-list:block block-list:abbreviated-name="나렬" block-list:name="나열"/>
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
   <block-list:block block-list:abbreviated-name="더웤" block-list:name="더워"/>
+  <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
   <block-list:block block-list:abbreviated-name="돼싿" block-list:name="됐다"/>
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="락원" block-list:name="낙원"/>
@@ -43,14 +46,19 @@
   <block-list:block block-list:abbreviated-name="실패률" block-list:name="실패율"/>
   <block-list:block block-list:abbreviated-name="싫엇" block-list:name="싫었"/>
   <block-list:block block-list:abbreviated-name="쌍동이" block-list:name="쌍둥이"/>
+  <block-list:block block-list:abbreviated-name="씁슬한" block-list:name="씁쓸한"/>
   <block-list:block block-list:abbreviated-name="ㅇ벗다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="ㅇ벗어" block-list:name="없어"/>
+  <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="업ㅂ다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="업서용" block-list:name="없어요"/>
+  <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>   
   <block-list:block block-list:abbreviated-name="예뿌" block-list:name="예뻐"/>
   <block-list:block block-list:abbreviated-name="예뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="와싿가싿" block-list:name="왔다갔다"/>
   <block-list:block block-list:abbreviated-name="외형율" block-list:name="외형률"/>
+  <block-list:block block-list:abbreviated-name="왠만하면" block-list:name="웬만하면"/>
+  <block-list:block block-list:abbreviated-name="웬지" block-list:name="왠지"/>
   <block-list:block block-list:abbreviated-name="웃넓이" block-list:name="윗넓이"/>
   <block-list:block block-list:abbreviated-name="웃도리" block-list:name="윗도리"/>
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
