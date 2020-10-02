@@ -2,6 +2,7 @@
 <block-list:block-list xmlns:block-list="http://openoffice.org/2001/block-list">
   <block-list:block block-list:abbreviated-name="가운대" block-list:name="가운데"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
+  <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
@@ -11,6 +12,7 @@
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
   <block-list:block block-list:abbreviated-name="더웤" block-list:name="더워"/>
+  <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
   <block-list:block block-list:abbreviated-name="돼싿" block-list:name="됐다"/>
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="락원" block-list:name="낙원"/>
@@ -54,6 +56,8 @@
   <block-list:block block-list:abbreviated-name="예뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="와싿가싿" block-list:name="왔다갔다"/>
   <block-list:block block-list:abbreviated-name="외형율" block-list:name="외형률"/>
+  <block-list:block block-list:abbreviated-name="왠만하면" block-list:name="웬만하면"/>
+  <block-list:block block-list:abbreviated-name="웬지" block-list:name="왠지"/>
   <block-list:block block-list:abbreviated-name="웃넓이" block-list:name="윗넓이"/>
   <block-list:block block-list:abbreviated-name="웃도리" block-list:name="윗도리"/>
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
