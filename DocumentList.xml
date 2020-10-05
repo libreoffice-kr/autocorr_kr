@@ -5,6 +5,7 @@
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
+  <block-list:block block-list:abbreviated-name="구렛나루" block-list:name="구레나룻"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
@@ -14,6 +15,7 @@
   <block-list:block block-list:abbreviated-name="나렬" block-list:name="나열"/>
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
+  <block-list:block block-list:abbreviated-name="댓가" block-list:name="대가"/>
   <block-list:block block-list:abbreviated-name="더어" block-list:name="더워"/>
   <block-list:block block-list:abbreviated-name="더웤" block-list:name="더워"/>
   <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
@@ -26,8 +28,10 @@
   <block-list:block block-list:abbreviated-name="로인" block-list:name="노인"/>
   <block-list:block block-list:abbreviated-name="류행" block-list:name="유행"/>
   <block-list:block block-list:abbreviated-name="리발" block-list:name="이발"/>
+  <block-list:block block-list:abbreviated-name="마굿간" block-list:name="마구간"/>
   <block-list:block block-list:abbreviated-name="마시쪙" block-list:name="맛있어"/>
   <block-list:block block-list:abbreviated-name="마씼억" block-list:name="맛있어"/>
+  <block-list:block block-list:abbreviated-name="말량광이" block-list:name="말괄량이"/>
   <block-list:block block-list:abbreviated-name="머싯써" block-list:name="멋있어"/>
   <block-list:block block-list:abbreviated-name="명애훼손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명예홰손" block-list:name="명예훼손"/>
@@ -79,6 +83,7 @@
   <block-list:block block-list:abbreviated-name="이어싿" block-list:name="이었다"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="처삼춘" block-list:name="처삼촌"/>
+    <block-list:block block-list:abbreviated-name="퇴마루" block-list:name="툇마루"/>
   <block-list:block block-list:abbreviated-name="피다" block-list:name="피우다"/>
   <block-list:block block-list:abbreviated-name="켸켸묵다" block-list:name="케케묵다"/>
   <block-list:block block-list:abbreviated-name="파괘한다" block-list:name="파괴한다"/>
