@@ -15,6 +15,7 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
+  <block-list:block block-list:abbreviated-name="금새" block-list:name="금세"/>
   <block-list:block block-list:abbreviated-name="깊든" block-list:name="깊던"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
@@ -26,6 +27,7 @@
   <block-list:block block-list:abbreviated-name="나즈막하다" block-list:name="나지막하다"/>
   <block-list:block block-list:abbreviated-name="넉넉치" block-list:name="넉넉지"/>
   <block-list:block block-list:abbreviated-name="널부러지다" block-list:name="널브러지다"/>
+  <block-list:block block-list:abbreviated-name="넓직한" block-list:name="널찍한"/>
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
   <block-list:block block-list:abbreviated-name="놈팽이" block-list:name="놈팡이"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
@@ -68,6 +70,7 @@
   <block-list:block block-list:abbreviated-name="명회회손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="몇일" block-list:name="며칠"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
+  <block-list:block block-list:abbreviated-name="문안하다" block-list:name="무난하다"/>
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
@@ -128,6 +131,7 @@
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
+  <block-list:block block-list:abbreviated-name="차돌배기" block-list:name="차돌박이"/>
   <block-list:block block-list:abbreviated-name="처삼춘" block-list:name="처삼촌"/>
   <block-list:block block-list:abbreviated-name="촉촉히" block-list:name="촉촉이"/>
   <block-list:block block-list:abbreviated-name="춥드라" block-list:name="춥더라"/>
