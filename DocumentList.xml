@@ -158,4 +158,10 @@
   <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
+  <block-list:block block-list:abbreviated-name="궂이" block-list:name="굳이"/>
+  <block-list:block block-list:abbreviated-name="몽땅연필" block-list:name="몽당연필"/>
+  <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
+  <block-list:block block-list:abbreviated-name="느즈막이" block-list:name="느지막이"/>
+  <block-list:block block-list:abbreviated-name="느즈막히" block-list:name="느지막이"/>
+  <block-list:block block-list:abbreviated-name="느지막히" block-list:name="느지막이"/>
 </block-list:block-list>
