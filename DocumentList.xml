@@ -60,6 +60,8 @@
   <block-list:block block-list:abbreviated-name="마시쪙" block-list:name="맛있어"/>
   <block-list:block block-list:abbreviated-name="마씼억" block-list:name="맛있어"/>
   <block-list:block block-list:abbreviated-name="말량광이" block-list:name="말괄량이"/>
+  <block-list:block block-list:abbreviated-name="말빨" block-list:name="말발"/>
+  <block-list:block block-list:abbreviated-name="맷돼지" block-list:name="멧돼지"/>
   <block-list:block block-list:abbreviated-name="머싯써" block-list:name="멋있어"/>
   <block-list:block block-list:abbreviated-name="멋장이" block-list:name="멋쟁이"/>
   <block-list:block block-list:abbreviated-name="명애훼손" block-list:name="명예훼손"/>
@@ -71,8 +73,10 @@
   <block-list:block block-list:abbreviated-name="몇일" block-list:name="며칠"/>
   <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
+  <block-list:block block-list:abbreviated-name="미싯가루" block-list:name="미숫가루"/>
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
+  <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
   <block-list:block block-list:abbreviated-name="백분률" block-list:name="백분율"/>
   <block-list:block block-list:abbreviated-name="배암" block-list:name="뱀"/>
