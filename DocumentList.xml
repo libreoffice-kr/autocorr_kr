@@ -6,6 +6,7 @@
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
   <block-list:block block-list:abbreviated-name="건데기" block-list:name="건더기"/>
+  <block-list:block block-list:abbreviated-name="건들이다" block-list:name="건드리다"/>
   <block-list:block block-list:abbreviated-name="걸맞는" block-list:name="걸맞은"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="갯수" block-list:name="개수"/>
@@ -15,6 +16,7 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
+  <block-list:block block-list:abbreviated-name="금새" block-list:name="금세"/>
   <block-list:block block-list:abbreviated-name="깊든" block-list:name="깊던"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
@@ -73,6 +75,7 @@
   <block-list:block block-list:abbreviated-name="몇일" block-list:name="며칠"/>
   <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
+  <block-list:block block-list:abbreviated-name="문안해" block-list:name="무난해"/>
   <block-list:block block-list:abbreviated-name="미싯가루" block-list:name="미숫가루"/>
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
@@ -90,6 +93,7 @@
   <block-list:block block-list:abbreviated-name="생각할런지" block-list:name="생각할는지"/>
   <block-list:block block-list:abbreviated-name="생ㅇ리" block-list:name="생일"/>
   <block-list:block block-list:abbreviated-name="선률" block-list:name="선율"/>
+  <block-list:block block-list:abbreviated-name="설레임" block-list:name="설렘"/>
   <block-list:block block-list:abbreviated-name="섭섭치" block-list:name="섭섭지"/>
   <block-list:block block-list:abbreviated-name="성공율" block-list:name="성공률"/>
   <block-list:block block-list:abbreviated-name="수퀑" block-list:name="수꿩"/>
