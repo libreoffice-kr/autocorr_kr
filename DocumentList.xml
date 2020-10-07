@@ -5,13 +5,14 @@
   <block-list:block block-list:abbreviated-name="거북치" block-list:name="거북지"/>
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
+  <block-list:block block-list:abbreviated-name="건데기" block-list:name="건더기"/>
   <block-list:block block-list:abbreviated-name="걸맞는" block-list:name="걸맞은"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="갯수" block-list:name="개수"/>
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="구렛나루" block-list:name="구레나룻"/>
-  <block-list:block block-list:abbreviated-name="귀뜸" block-list:name="귀"/>
+  <block-list:block block-list:abbreviated-name="귀뜸" block-list:name="귀띰"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
@@ -23,21 +24,33 @@
   <block-list:block block-list:abbreviated-name="나렬" block-list:name="나열"/>
   <block-list:block block-list:abbreviated-name="나무가지" block-list:name="나뭇가지"/>
   <block-list:block block-list:abbreviated-name="나루배" block-list:name="나룻배"/>
+  <block-list:block block-list:abbreviated-name="나즈막하다" block-list:name="나지막하다"/>
   <block-list:block block-list:abbreviated-name="넉넉치" block-list:name="넉넉지"/>
+  <block-list:block block-list:abbreviated-name="널부러지다" block-list:name="널브러지다"/>
+  <block-list:block block-list:abbreviated-name="넓직한" block-list:name="널찍한"/>
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
+  <block-list:block block-list:abbreviated-name="놈팽이" block-list:name="놈팡이"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
+  <block-list:block block-list:abbreviated-name="눈꼽" block-list:name="눈곱"/>
   <block-list:block block-list:abbreviated-name="능이" block-list:name="능히"/>
   <block-list:block block-list:abbreviated-name="내노라" block-list:name="내로라"/>
+  <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
+  <block-list:block block-list:abbreviated-name="당췌" block-list:name="당최"/>
   <block-list:block block-list:abbreviated-name="댓가" block-list:name="대가"/>
   <block-list:block block-list:abbreviated-name="더우기" block-list:name="더욱이"/>
   <block-list:block block-list:abbreviated-name="더어" block-list:name="더워"/>
   <block-list:block block-list:abbreviated-name="더웤" block-list:name="더워"/>
   <block-list:block block-list:abbreviated-name="던지" block-list:name="든지"/>
+  <block-list:block block-list:abbreviated-name="덩쿨" block-list:name="넝쿨"/>
   <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
+  <block-list:block block-list:abbreviated-name="돌맹이" block-list:name="돌멩이"/>
   <block-list:block block-list:abbreviated-name="돼싿" block-list:name="됐다"/>
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
+  <block-list:block block-list:abbreviated-name="되물림" block-list:name="대물림"/>
   <block-list:block block-list:abbreviated-name="되요" block-list:name="됐요"/>
+  <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
+  <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="락원" block-list:name="낙원"/>
   <block-list:block block-list:abbreviated-name="량심" block-list:name="양심"/>
   <block-list:block block-list:abbreviated-name="력사" block-list:name="역사"/>
@@ -49,9 +62,10 @@
   <block-list:block block-list:abbreviated-name="마씼억" block-list:name="맛있어"/>
   <block-list:block block-list:abbreviated-name="말량광이" block-list:name="말괄량이"/>
   <block-list:block block-list:abbreviated-name="마춰" block-list:name="맞춰"/>
+  <block-list:block block-list:abbreviated-name="말빨" block-list:name="말발"/>
+  <block-list:block block-list:abbreviated-name="맷돼지" block-list:name="멧돼지"/>
   <block-list:block block-list:abbreviated-name="머싯써" block-list:name="멋있어"/>
   <block-list:block block-list:abbreviated-name="멋장이" block-list:name="멋쟁이"/>
-  <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="명애훼손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명예홰손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명외훼손" block-list:name="명예훼손"/>
@@ -59,7 +73,9 @@
   <block-list:block block-list:abbreviated-name="명중율" block-list:name="명중률"/>
   <block-list:block block-list:abbreviated-name="명회회손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="몇일" block-list:name="며칠"/>
+  <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
+  <block-list:block block-list:abbreviated-name="미싯가루" block-list:name="미숫가루"/>
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
