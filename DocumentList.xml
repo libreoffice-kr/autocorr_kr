@@ -103,12 +103,14 @@
   <block-list:block block-list:abbreviated-name="쌍동이" block-list:name="쌍둥이"/>
   <block-list:block block-list:abbreviated-name="씁슬한" block-list:name="씁쓸한"/>
   <block-list:block block-list:abbreviated-name="솔직이" block-list:name="솔직히"/>
+  <block-list:block block-list:abbreviated-name="시라소니" block-list:name="스라소니"/>
   <block-list:block block-list:abbreviated-name="ㅇ벗다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="ㅇ벗어" block-list:name="없어"/>
   <block-list:block block-list:abbreviated-name="아지랭이" block-list:name="아지랑이"/>
   <block-list:block block-list:abbreviated-name="아래마을" block-list:name="아랫마을"/>
   <block-list:block block-list:abbreviated-name="알맞는" block-list:name="알맞은"/>
   <block-list:block block-list:abbreviated-name="않된다" block-list:name="안 된다"/>
+  <block-list:block block-list:abbreviated-name="애시당초" block-list:name="애당초"/>
   <block-list:block block-list:abbreviated-name="어떻해" block-list:name="어떡해"/>
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어의없는" block-list:name="어이없는"/>
@@ -130,6 +132,7 @@
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
   <block-list:block block-list:abbreviated-name="위눈썹" block-list:name="윗눈썹"/>
   <block-list:block block-list:abbreviated-name="올께" block-list:name="올게"/>
+  <block-list:block block-list:abbreviated-name="으례" block-list:name="으레"/>
   <block-list:block block-list:abbreviated-name="이어싿" block-list:name="이었다"/>
   <block-list:block block-list:abbreviated-name="익숙치" block-list:name="익숙지"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
@@ -142,6 +145,7 @@
   <block-list:block block-list:abbreviated-name="촉촉히" block-list:name="촉촉이"/>
   <block-list:block block-list:abbreviated-name="춥드라" block-list:name="춥더라"/>
   <block-list:block block-list:abbreviated-name="켸켸묵다" block-list:name="케케묵다"/>
+  <block-list:block block-list:abbreviated-name="통채로" block-list:name="통째로"/>
   <block-list:block block-list:abbreviated-name="퇴마루" block-list:name="툇마루"/>
   <block-list:block block-list:abbreviated-name="틈틈히" block-list:name="틈틈이"/>
   <block-list:block block-list:abbreviated-name="파괘한다" block-list:name="파괴한다"/>
