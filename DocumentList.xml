@@ -15,7 +15,6 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
-  <block-list:block block-list:abbreviated-name="금새" block-list:name="금세"/>
   <block-list:block block-list:abbreviated-name="깊든" block-list:name="깊던"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
@@ -25,6 +24,7 @@
   <block-list:block block-list:abbreviated-name="나무가지" block-list:name="나뭇가지"/>
   <block-list:block block-list:abbreviated-name="나루배" block-list:name="나룻배"/>
   <block-list:block block-list:abbreviated-name="나즈막하다" block-list:name="나지막하다"/>
+  <block-list:block block-list:abbreviated-name="낭떨어지" block-list:name="나지막하다"/>
   <block-list:block block-list:abbreviated-name="넉넉치" block-list:name="넉넉지"/>
   <block-list:block block-list:abbreviated-name="널부러지다" block-list:name="널브러지다"/>
   <block-list:block block-list:abbreviated-name="넓직한" block-list:name="널찍한"/>
@@ -117,7 +117,8 @@
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="업ㅂ다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="업서용" block-list:name="없어요"/>
-  <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>   
+  <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>
+  <block-list:block block-list:abbreviated-name="연애인" block-list:name="연예인"/>
   <block-list:block block-list:abbreviated-name="예뿌" block-list:name="예뻐"/>
   <block-list:block block-list:abbreviated-name="예뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="오랫만" block-list:name="오랜만"/>
@@ -148,6 +149,7 @@
   <block-list:block block-list:abbreviated-name="퇴마루" block-list:name="툇마루"/>
   <block-list:block block-list:abbreviated-name="틈틈히" block-list:name="틈틈이"/>
   <block-list:block block-list:abbreviated-name="파괘한다" block-list:name="파괴한다"/>
+  <block-list:block block-list:abbreviated-name="파괘한다" block-list:name="폭발"/>
   <block-list:block block-list:abbreviated-name="피다" block-list:name="피우다"/>  
   <block-list:block block-list:abbreviated-name="핑게" block-list:name="핑계"/>  
   <block-list:block block-list:abbreviated-name="하세유" block-list:name="하세요"/>
