@@ -15,6 +15,7 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
+  <block-list:block block-list:abbreviated-name="금새" block-list:name="금세"/>
   <block-list:block block-list:abbreviated-name="깊든" block-list:name="깊던"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
@@ -77,6 +78,7 @@
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
+  <block-list:block block-list:abbreviated-name="바램" block-list:name="바람"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
   <block-list:block block-list:abbreviated-name="백분률" block-list:name="백분율"/>
   <block-list:block block-list:abbreviated-name="배암" block-list:name="뱀"/>
@@ -132,6 +134,7 @@
   <block-list:block block-list:abbreviated-name="올께" block-list:name="올게"/>
   <block-list:block block-list:abbreviated-name="이어싿" block-list:name="이었다"/>
   <block-list:block block-list:abbreviated-name="익숙치" block-list:name="익숙지"/>
+  <block-list:block block-list:abbreviated-name="일일히" block-list:name="일일이"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
@@ -157,5 +160,6 @@
   <block-list:block block-list:abbreviated-name="헤택" block-list:name="혜택"/>
   <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
+  <block-list:block block-list:abbreviated-name="희안하다" block-list:name="희한하다"/>
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
 </block-list:block-list>
