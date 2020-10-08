@@ -38,11 +38,12 @@
 
 그렇기 때문에 아래의 링크를 참고하여 교정할 낱말이, 다른 뜻의 낱말로 쓰이는 경우가 있는 지 검색 후에 전달해주시기 바랍니다.
 
-    * 참고
-        * [국립국어원 표준국어대사전](https://stdict.korean.go.kr/)
-        * [국립국어원 우리말샘](https://opendict.korean.go.kr/main)
-        * [국립국어원 한국어기초사전](https://krdict.korean.go.kr/mainAction)
-        * [네이버 국어사전](https://ko.dict.naver.com/#/main)
+##### 참고
+
+* [국립국어원 표준국어대사전](https://stdict.korean.go.kr/)
+* [국립국어원 우리말샘](https://opendict.korean.go.kr/main)
+* [국립국어원 한국어기초사전](https://krdict.korean.go.kr/mainAction)
+* [네이버 국어사전](https://ko.dict.naver.com/#/main)
 
 3. 자동 교정 내용은 2자리 이상만 추가해주세요. 1자리만 적용할 경우, 리브레오피스를 사용하는 사용자가  작성하려던 한글자 낱말을 입력하면 의도치 않게 다른 말로 바뀌어서 입력이 안된다고 이슈를 발견하고, 버그를 올릴 수 있기 때문이지요.
 
