@@ -12,6 +12,7 @@
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="구렛나루" block-list:name="구레나룻"/>
+  <block-list:block block-list:abbreviated-name="궂이" block-list:name="굳이"/>
   <block-list:block block-list:abbreviated-name="귀뜸" block-list:name="귀띰"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
@@ -32,6 +33,9 @@
   <block-list:block block-list:abbreviated-name="놈팽이" block-list:name="놈팡이"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
   <block-list:block block-list:abbreviated-name="눈꼽" block-list:name="눈곱"/>
+  <block-list:block block-list:abbreviated-name="느즈막이" block-list:name="느지막이"/>
+  <block-list:block block-list:abbreviated-name="느즈막히" block-list:name="느지막이"/>
+  <block-list:block block-list:abbreviated-name="느지막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="능이" block-list:name="능히"/>
   <block-list:block block-list:abbreviated-name="내노라" block-list:name="내로라"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
@@ -73,6 +77,7 @@
   <block-list:block block-list:abbreviated-name="명중율" block-list:name="명중률"/>
   <block-list:block block-list:abbreviated-name="명회회손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="몇일" block-list:name="며칠"/>
+  <block-list:block block-list:abbreviated-name="몽땅연필" block-list:name="몽당연필"/>
   <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
   <block-list:block block-list:abbreviated-name="미싯가루" block-list:name="미숫가루"/>
@@ -164,4 +169,5 @@
   <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
+  <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
 </block-list:block-list>
