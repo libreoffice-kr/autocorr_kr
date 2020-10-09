@@ -6,6 +6,7 @@
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
   <block-list:block block-list:abbreviated-name="건데기" block-list:name="건더기"/>
+  <block-list:block block-list:abbreviated-name="건들이다" block-list:name="건드리다"/>
   <block-list:block block-list:abbreviated-name="걸맞는" block-list:name="걸맞은"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="갯수" block-list:name="개수"/>
@@ -99,6 +100,7 @@
   <block-list:block block-list:abbreviated-name="생각할런지" block-list:name="생각할는지"/>
   <block-list:block block-list:abbreviated-name="생ㅇ리" block-list:name="생일"/>
   <block-list:block block-list:abbreviated-name="선률" block-list:name="선율"/>
+  <block-list:block block-list:abbreviated-name="설레임" block-list:name="설렘"/>
   <block-list:block block-list:abbreviated-name="섭섭치" block-list:name="섭섭지"/>
   <block-list:block block-list:abbreviated-name="성공율" block-list:name="성공률"/>
   <block-list:block block-list:abbreviated-name="수퀑" block-list:name="수꿩"/>
