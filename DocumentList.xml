@@ -2,6 +2,7 @@
 <block-list:block-list xmlns:block-list="http://openoffice.org/2001/block-list">
   <block-list:block block-list:abbreviated-name="가운대" block-list:name="가운데"/>
   <block-list:block block-list:abbreviated-name="가튼데" block-list:name="같은데"/>
+  <block-list:block block-list:abbreviated-name="까페" block-list:name="카페"/>
   <block-list:block block-list:abbreviated-name="거북치" block-list:name="거북지"/>
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
@@ -43,9 +44,11 @@
   <block-list:block block-list:abbreviated-name="로인" block-list:name="노인"/>
   <block-list:block block-list:abbreviated-name="류행" block-list:name="유행"/>
   <block-list:block block-list:abbreviated-name="리발" block-list:name="이발"/>
+  <block-list:block block-list:abbreviated-name="리더쉽" block-list:name="리더십"/>
   <block-list:block block-list:abbreviated-name="마굿간" block-list:name="마구간"/>
   <block-list:block block-list:abbreviated-name="마시쪙" block-list:name="맛있어"/>
   <block-list:block block-list:abbreviated-name="마씼억" block-list:name="맛있어"/>
+  <block-list:block block-list:abbreviated-name="마캣" block-list:name="마켓"/>
   <block-list:block block-list:abbreviated-name="말량광이" block-list:name="말괄량이"/>
   <block-list:block block-list:abbreviated-name="머싯써" block-list:name="멋있어"/>
   <block-list:block block-list:abbreviated-name="멋장이" block-list:name="멋쟁이"/>
@@ -92,6 +95,7 @@
   <block-list:block block-list:abbreviated-name="아래마을" block-list:name="아랫마을"/>
   <block-list:block block-list:abbreviated-name="알맞는" block-list:name="알맞은"/>
   <block-list:block block-list:abbreviated-name="않된다" block-list:name="안 된다"/>
+  <block-list:block block-list:abbreviated-name="애로우" block-list:name="애로"/>
   <block-list:block block-list:abbreviated-name="어떻해" block-list:name="어떡해"/>
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어의없는" block-list:name="어이없는"/>
@@ -118,9 +122,14 @@
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
+  <block-list:block block-list:abbreviated-name="쥬스" block-list:name="주스"/>
   <block-list:block block-list:abbreviated-name="처삼춘" block-list:name="처삼촌"/>
   <block-list:block block-list:abbreviated-name="촉촉히" block-list:name="촉촉이"/>
+  <block-list:block block-list:abbreviated-name="츄러스" block-list:name="추로스"/>
+  <block-list:block block-list:abbreviated-name="추러스" block-list:name="추로스"/>
   <block-list:block block-list:abbreviated-name="춥드라" block-list:name="춥더라"/>
+  <block-list:block block-list:abbreviated-name="케익" block-list:name="케이크"/>
+  <block-list:block block-list:abbreviated-name="케잌" block-list:name="케이크"/>
   <block-list:block block-list:abbreviated-name="켸켸묵다" block-list:name="케케묵다"/>
   <block-list:block block-list:abbreviated-name="퇴마루" block-list:name="툇마루"/>
   <block-list:block block-list:abbreviated-name="틈틈히" block-list:name="틈틈이"/>
