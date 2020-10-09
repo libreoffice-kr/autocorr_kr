@@ -71,6 +71,7 @@
   <block-list:block block-list:abbreviated-name="맷돼지" block-list:name="멧돼지"/>
   <block-list:block block-list:abbreviated-name="머싯써" block-list:name="멋있어"/>
   <block-list:block block-list:abbreviated-name="멋장이" block-list:name="멋쟁이"/>
+  <block-list:block block-list:abbreviated-name="메세지" block-list:name="메시지"/>
   <block-list:block block-list:abbreviated-name="명애훼손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명예홰손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명외훼손" block-list:name="명예훼손"/>
@@ -155,6 +156,7 @@
   <block-list:block block-list:abbreviated-name="처삼춘" block-list:name="처삼촌"/>
   <block-list:block block-list:abbreviated-name="촉촉히" block-list:name="촉촉이"/>
   <block-list:block block-list:abbreviated-name="춥드라" block-list:name="춥더라"/>
+  <block-list:block block-list:abbreviated-name="컨텐츠" block-list:name="콘텐츠"/>
   <block-list:block block-list:abbreviated-name="켸켸묵다" block-list:name="케케묵다"/>
   <block-list:block block-list:abbreviated-name="통채로" block-list:name="통째로"/>
   <block-list:block block-list:abbreviated-name="퇴마루" block-list:name="툇마루"/>
