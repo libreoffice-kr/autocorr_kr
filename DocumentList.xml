@@ -12,7 +12,6 @@
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="구렛나루" block-list:name="구레나룻"/>
-  <block-list:block block-list:abbreviated-name="구지" block-list:name="굳이"/>
   <block-list:block block-list:abbreviated-name="궂이" block-list:name="굳이"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
@@ -48,8 +47,7 @@
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="되물림" block-list:name="대물림"/>
-  <block-list:block block-list:abbreviated-name="되요" block-list:name="됐요"/>
-  <block-list:block block-list:abbreviated-name="됫" block-list:name="됐"/>
+  <block-list:block block-list:abbreviated-name="되요" block-list:name="돼요"/>
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="락원" block-list:name="낙원"/>
