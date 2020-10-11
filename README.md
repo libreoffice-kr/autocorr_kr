@@ -81,7 +81,7 @@
 ```
 add korean autocorrect list
 
-Add Korean Auto Correst list
+Add Korean Auto Correct list
 성공율 -> 성공률
 외형율 -> 외형률
 ```
