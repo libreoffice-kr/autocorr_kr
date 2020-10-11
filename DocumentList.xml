@@ -19,9 +19,11 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
+  <block-list:block block-list:abbreviated-name="그랬군아" block-list:name="그랬구나"/>
   <block-list:block block-list:abbreviated-name="깊든" block-list:name="깊던"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
+  <block-list:block block-list:abbreviated-name="깝깝하다" block-list:name="갑갑하다"/>
   <block-list:block block-list:abbreviated-name="꼭둑각시" block-list:name="꼭두각시"/>
   <block-list:block block-list:abbreviated-name="깨끗히" block-list:name="깨끗이"/>
   <block-list:block block-list:abbreviated-name="나렬" block-list:name="나열"/>
@@ -54,9 +56,10 @@
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="되물림" block-list:name="대물림"/>
-  <block-list:block block-list:abbreviated-name="되요" block-list:name="됐요"/>
+  <block-list:block block-list:abbreviated-name="되요" block-list:name="돼요"/>
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
+  <block-list:block block-list:abbreviated-name="떢볶이" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="락원" block-list:name="낙원"/>
   <block-list:block block-list:abbreviated-name="량심" block-list:name="양심"/>
   <block-list:block block-list:abbreviated-name="력사" block-list:name="역사"/>
@@ -104,6 +107,7 @@
   <block-list:block block-list:abbreviated-name="생각할런지" block-list:name="생각할는지"/>
   <block-list:block block-list:abbreviated-name="생ㅇ리" block-list:name="생일"/>
   <block-list:block block-list:abbreviated-name="선률" block-list:name="선율"/>
+  <block-list:block block-list:abbreviated-name="설겆이" block-list:name="설거지"/>
   <block-list:block block-list:abbreviated-name="설레임" block-list:name="설렘"/>
   <block-list:block block-list:abbreviated-name="섭섭치" block-list:name="섭섭지"/>
   <block-list:block block-list:abbreviated-name="성공율" block-list:name="성공률"/>
@@ -147,6 +151,7 @@
   <block-list:block block-list:abbreviated-name="웃도리" block-list:name="윗도리"/>
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
   <block-list:block block-list:abbreviated-name="위눈썹" block-list:name="윗눈썹"/>
+  <block-list:block block-list:abbreviated-name="윗어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="올께" block-list:name="올게"/>
   <block-list:block block-list:abbreviated-name="으례" block-list:name="으레"/>
   <block-list:block block-list:abbreviated-name="이어싿" block-list:name="이었다"/>
