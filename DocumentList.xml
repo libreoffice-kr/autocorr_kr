@@ -31,9 +31,11 @@
   <block-list:block block-list:abbreviated-name="나즈막하다" block-list:name="나지막하다"/>
   <block-list:block block-list:abbreviated-name="넉넉치" block-list:name="넉넉지"/>
   <block-list:block block-list:abbreviated-name="널부러지다" block-list:name="널브러지다"/>
+  <block-list:block block-list:abbreviated-name="넓다랗다" block-list:name="널따랗다"/>
   <block-list:block block-list:abbreviated-name="넓직한" block-list:name="널찍한"/>
   <block-list:block block-list:abbreviated-name="넘흐" block-list:name="너무"/>
   <block-list:block block-list:abbreviated-name="놈팽이" block-list:name="놈팡이"/>
+  <block-list:block block-list:abbreviated-name="뇌졸증" block-list:name="뇌졸중"/>
   <block-list:block block-list:abbreviated-name="누뀜뾰" block-list:name="느낌표"/>
   <block-list:block block-list:abbreviated-name="눈꼽" block-list:name="눈곱"/>
   <block-list:block block-list:abbreviated-name="느즈막이" block-list:name="느지막이"/>
@@ -174,9 +176,11 @@
   <block-list:block block-list:abbreviated-name="합격율" block-list:name="합격률"/>
   <block-list:block block-list:abbreviated-name="해도지" block-list:name="해돋이"/>
   <block-list:block block-list:abbreviated-name="해싿" block-list:name="했다"/>
+  <block-list:block block-list:abbreviated-name="핼쓱하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="햇어" block-list:name="했어"/>
   <block-list:block block-list:abbreviated-name="했써" block-list:name="했어"/>
   <block-list:block block-list:abbreviated-name="헤택" block-list:name="혜택"/>
+  <block-list:block block-list:abbreviated-name="헬쑥하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
