@@ -5,6 +5,7 @@
   <block-list:block block-list:abbreviated-name="거북치" block-list:name="거북지"/>
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
+  <block-list:block block-list:abbreviated-name="개구장이" block-list:name="개구쟁이"/>
   <block-list:block block-list:abbreviated-name="건데기" block-list:name="건더기"/>
   <block-list:block block-list:abbreviated-name="건들이다" block-list:name="건드리다"/>
   <block-list:block block-list:abbreviated-name="걸맞는" block-list:name="걸맞은"/>
@@ -27,6 +28,7 @@
   <block-list:block block-list:abbreviated-name="깝깝하다" block-list:name="갑갑하다"/>
   <block-list:block block-list:abbreviated-name="꼭둑각시" block-list:name="꼭두각시"/>
   <block-list:block block-list:abbreviated-name="깨끗히" block-list:name="깨끗이"/>
+  <block-list:block block-list:abbreviated-name="꺼림직" block-list:name="꺼림칙"/>
   <block-list:block block-list:abbreviated-name="나렬" block-list:name="나열"/>
   <block-list:block block-list:abbreviated-name="나무가지" block-list:name="나뭇가지"/>
   <block-list:block block-list:abbreviated-name="나루배" block-list:name="나룻배"/>
@@ -64,6 +66,7 @@
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떢볶이" block-list:name="떡볶이"/>
+  <block-list:block block-list:abbreviated-name="뚝빼기" block-list:name="뚝배기"/>
   <block-list:block block-list:abbreviated-name="락원" block-list:name="낙원"/>
   <block-list:block block-list:abbreviated-name="량심" block-list:name="양심"/>
   <block-list:block block-list:abbreviated-name="력사" block-list:name="역사"/>
@@ -102,6 +105,8 @@
   <block-list:block block-list:abbreviated-name="복음밥" block-list:name="볶음밥"/>
   <block-list:block block-list:abbreviated-name="불리우다" block-list:name="불리다"/>
   <block-list:block block-list:abbreviated-name="백분률" block-list:name="백분율"/>
+  <block-list:block block-list:abbreviated-name="비로서" block-list:name="비로소"/>
+  <block-list:block block-list:abbreviated-name="빈털털이" block-list:name="빈털터리"/>
   <block-list:block block-list:abbreviated-name="삭월세" block-list:name="사글세"/>
   <block-list:block block-list:abbreviated-name="살려줏메" block-list:name="살려주셈"/>
   <block-list:block block-list:abbreviated-name="새벽녁" block-list:name="새벽녘"/>
@@ -113,9 +118,11 @@
   <block-list:block block-list:abbreviated-name="설레임" block-list:name="설렘"/>
   <block-list:block block-list:abbreviated-name="섭섭치" block-list:name="섭섭지"/>
   <block-list:block block-list:abbreviated-name="성공율" block-list:name="성공률"/>
+  <block-list:block block-list:abbreviated-name="세째" block-list:name="셋째"/>
   <block-list:block block-list:abbreviated-name="수퀑" block-list:name="수꿩"/>
   <block-list:block block-list:abbreviated-name="숫나사" block-list:name="수나사"/>
   <block-list:block block-list:abbreviated-name="숫놈" block-list:name="수놈"/>
+  <block-list:block block-list:abbreviated-name="숫병아리" block-list:name="수평아리"/>
   <block-list:block block-list:abbreviated-name="숫사자" block-list:name="수사자"/>
   <block-list:block block-list:abbreviated-name="숫은행나무" block-list:name="수은행나무"/>
   <block-list:block block-list:abbreviated-name="스빈다" block-list:name="습니다"/>
@@ -191,5 +198,6 @@
   <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
+  <block-list:block block-list:abbreviated-name="흐리멍텅" block-list:name="흐리멍덩"/>
   <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
 </block-list:block-list>
