@@ -165,6 +165,8 @@
   <block-list:block block-list:abbreviated-name="찌게" block-list:name="찌개"/>
   <block-list:block block-list:abbreviated-name="차돌배기" block-list:name="차돌박이"/>
   <block-list:block block-list:abbreviated-name="처삼춘" block-list:name="처삼촌"/>
+  <block-list:block block-list:abbreviated-name="챗바퀴" block-list:name="쳇바퀴"/>
+  <block-list:block block-list:abbreviated-name="초죽음" block-list:name="초주검"/>
   <block-list:block block-list:abbreviated-name="촉촉히" block-list:name="촉촉이"/>
   <block-list:block block-list:abbreviated-name="최대값" block-list:name="최댓값"/>
   <block-list:block block-list:abbreviated-name="최소값" block-list:name="최솟값"/>
@@ -192,9 +194,4 @@
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
   <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
-  <block-list:block block-list:abbreviated-name="괴변" block-list:name="궤변"/>
-  <block-list:block block-list:abbreviated-name="축척" block-list:name="축적"/>
-  <block-list:block block-list:abbreviated-name="추스리다" block-list:name="추스르다"/>
-  <block-list:block block-list:abbreviated-name="초죽음" block-list:name="초주검"/>
-  <block-list:block block-list:abbreviated-name="챗바퀴" block-list:name="쳇바퀴"/>
 </block-list:block-list>
