@@ -28,6 +28,7 @@
   <block-list:block block-list:abbreviated-name="깊든" block-list:name="깊던"/>
   <block-list:block block-list:abbreviated-name="깎듯한" block-list:name="깍듯한"/>
   <block-list:block block-list:abbreviated-name="깝깝하다" block-list:name="갑갑하다"/>
+  <block-list:block block-list:abbreviated-name="꼬매다" block-list:name="꿰매다"/>
   <block-list:block block-list:abbreviated-name="꼭둑각시" block-list:name="꼭두각시"/>
   <block-list:block block-list:abbreviated-name="깨끗히" block-list:name="깨끗이"/>
   <block-list:block block-list:abbreviated-name="꺼림직" block-list:name="꺼림칙"/>
@@ -99,6 +100,7 @@
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
+  <block-list:block block-list:abbreviated-name="바끼다" block-list:name="바뀌다"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
   <block-list:block block-list:abbreviated-name="배개" block-list:name="베개"/>
   <block-list:block block-list:abbreviated-name="배암" block-list:name="뱀"/>
