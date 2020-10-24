@@ -49,6 +49,7 @@
   <block-list:block block-list:abbreviated-name="느지막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="능이" block-list:name="능히"/>
   <block-list:block block-list:abbreviated-name="내노라" block-list:name="내로라"/>
+  <block-list:block block-list:abbreviated-name="단언컨데" block-list:name="단언컨대"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
   <block-list:block block-list:abbreviated-name="당췌" block-list:name="당최"/>
   <block-list:block block-list:abbreviated-name="대표값" block-list:name="대푯값"/>
@@ -93,6 +94,7 @@
   <block-list:block block-list:abbreviated-name="명회회손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="몇일" block-list:name="며칠"/>
   <block-list:block block-list:abbreviated-name="몽땅연필" block-list:name="몽당연필"/>
+  <block-list:block block-list:abbreviated-name="무릎팍" block-list:name="무르팍"/>
   <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
   <block-list:block block-list:abbreviated-name="미싯가루" block-list:name="미숫가루"/>
@@ -148,6 +150,7 @@
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어의없는" block-list:name="어이없는"/>
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
+  <block-list:block block-list:abbreviated-name="어줍잖다" block-list:name="어쭙잖다"/>
   <block-list:block block-list:abbreviated-name="업ㅂ다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="업서용" block-list:name="없어요"/>
   <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>   
