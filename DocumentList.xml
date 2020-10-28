@@ -51,6 +51,7 @@
   <block-list:block block-list:abbreviated-name="내노라" block-list:name="내로라"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
   <block-list:block block-list:abbreviated-name="당췌" block-list:name="당최"/>
+  <block-list:block block-list:abbreviated-name="단언컨데" block-list:name="단언컨대"/>
   <block-list:block block-list:abbreviated-name="대표값" block-list:name="대푯값"/>
   <block-list:block block-list:abbreviated-name="댓가" block-list:name="대가"/>
   <block-list:block block-list:abbreviated-name="더우기" block-list:name="더욱이"/>
@@ -65,6 +66,7 @@
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="되물림" block-list:name="대물림"/>
   <block-list:block block-list:abbreviated-name="되요" block-list:name="돼요"/>
+  <block-list:block block-list:abbreviated-name="된장찌게" block-list:name="된장찌개"/>
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떢볶이" block-list:name="떡볶이"/>
@@ -150,7 +152,8 @@
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="업ㅂ다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="업서용" block-list:name="없어요"/>
-  <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>   
+  <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>
+  <block-list:block block-list:abbreviated-name="연애인" block-list:name="연예인"/>
   <block-list:block block-list:abbreviated-name="예뿌" block-list:name="예뻐"/>
   <block-list:block block-list:abbreviated-name="예뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="오랫만" block-list:name="오랜만"/>
