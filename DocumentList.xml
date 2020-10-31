@@ -194,6 +194,7 @@
   <block-list:block block-list:abbreviated-name="최대값" block-list:name="최댓값"/>
   <block-list:block block-list:abbreviated-name="최소값" block-list:name="최솟값"/>
   <block-list:block block-list:abbreviated-name="춥드라" block-list:name="춥더라"/>
+  <block-list:block block-list:abbreviated-name="치고박고" block-list:name="치고받고"/>
   <block-list:block block-list:abbreviated-name="컨텐츠" block-list:name="콘텐츠"/>
   <block-list:block block-list:abbreviated-name="켸켸묵다" block-list:name="케케묵다"/>
   <block-list:block block-list:abbreviated-name="통채로" block-list:name="통째로"/>
