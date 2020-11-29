@@ -27,7 +27,7 @@
 
 
 ### 주의사항 
-{:start="1"}
+
 1. 자동 교정 내용을 작성 및 제출 시 `block-list:abbreviated-name` 속성 기준으로 `가나다` 오름차순으로 작성하여 제출하시기 바랍니다. `가나다` 순으로 작성하지 않으면 풀리퀘스트(Pull Request)가 거절 될 수 있습니다. 
 2. 자동 교정 내용을 추가 하실때, 국립국어원의 사전과 네이버 국어사전을 참고로 하여 검색후, 기존 낱말이 있는 경우는 추가하지 말아주십시요
 
@@ -38,13 +38,13 @@
 
 그렇기 때문에 아래의 링크를 참고하여 교정할 낱말이, 다른 뜻의 낱말로 쓰이는 경우가 있는 지 검색 후에 전달해주시기 바랍니다.
 
-    * 참고
-        * [국립국어원 표준국어대사전](https://stdict.korean.go.kr/)
-        * [국립국어원 우리말샘](https://opendict.korean.go.kr/main)
-        * [국립국어원 한국어기초사전](https://krdict.korean.go.kr/mainAction)
-        * [네이버 국어사전](https://ko.dict.naver.com/#/main)
+##### 참고
 
-{:start="3"}
+* [국립국어원 표준국어대사전](https://stdict.korean.go.kr/)
+* [국립국어원 우리말샘](https://opendict.korean.go.kr/main)
+* [국립국어원 한국어기초사전](https://krdict.korean.go.kr/mainAction)
+* [네이버 국어사전](https://ko.dict.naver.com/#/main)
+
 3. 자동 교정 내용은 2자리 이상만 추가해주세요. 1자리만 적용할 경우, 리브레오피스를 사용하는 사용자가  작성하려던 한글자 낱말을 입력하면 의도치 않게 다른 말로 바뀌어서 입력이 안된다고 이슈를 발견하고, 버그를 올릴 수 있기 때문이지요.
 
 예를 들어, `됫` 이라는 한 글자의 낱말을 `됏`으로 변경할 때의 문제입니다. 
@@ -81,7 +81,7 @@
 ```
 add korean autocorrect list
 
-Add Korean Auto Correst list
+Add Korean Auto Correct list
 성공율 -> 성공률
 외형율 -> 외형률
 ```
