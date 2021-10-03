@@ -156,6 +156,7 @@
   <block-list:block block-list:abbreviated-name="애시당초" block-list:name="애당초"/>
   <block-list:block block-list:abbreviated-name="어따대고" block-list:name="얻다 대고"/>
   <block-list:block block-list:abbreviated-name="어떻해" block-list:name="어떡해"/>
+  <block-list:block block-list:abbreviated-name="어렴풋히" block-list:name="어렴풋이"/>
   <block-list:block block-list:abbreviated-name="어의없는" block-list:name="어이없는"/>
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
@@ -173,6 +174,7 @@
   <block-list:block block-list:abbreviated-name="왠만하면" block-list:name="웬만하면"/>
   <block-list:block block-list:abbreviated-name="외형율" block-list:name="외형률"/>
   <block-list:block block-list:abbreviated-name="요컨데" block-list:name="요컨대"/>
+  <block-list:block block-list:abbreviated-name="울부짓다" block-list:name="울부짖다"/>
   <block-list:block block-list:abbreviated-name="웃넓이" block-list:name="윗넓이"/>
   <block-list:block block-list:abbreviated-name="웃도리" block-list:name="윗도리"/>
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
@@ -222,6 +224,7 @@
   <block-list:block block-list:abbreviated-name="해꾸랴" block-list:name="했구랴"/>
   <block-list:block block-list:abbreviated-name="해도지" block-list:name="해돋이"/>
   <block-list:block block-list:abbreviated-name="해싿" block-list:name="했다"/>
+  <block-list:block block-list:abbreviated-name="해질녁" block-list:name="해질녘"/>
   <block-list:block block-list:abbreviated-name="핼쓱하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="햇다" block-list:name="했다"/>
   <block-list:block block-list:abbreviated-name="햇쑴니" block-list:name="했습니"/>
