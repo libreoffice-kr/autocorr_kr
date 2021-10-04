@@ -192,6 +192,7 @@
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
   <block-list:block block-list:abbreviated-name="제작년" block-list:name="재작년"/>
+  <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
   <block-list:block block-list:abbreviated-name="짜집기" block-list:name="짜깁기"/>
   <block-list:block block-list:abbreviated-name="찌게" block-list:name="찌개"/>
   <block-list:block block-list:abbreviated-name="차돌배기" block-list:name="차돌박이"/>
@@ -236,6 +237,7 @@
   <block-list:block block-list:abbreviated-name="헥갈리다" block-list:name="헷갈리다"/>
   <block-list:block block-list:abbreviated-name="헬쑥하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="혼나규" block-list:name="혼나고"/>
+  <block-list:block block-list:abbreviated-name="회계년도" block-list:name="회계연도"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="흐리멍텅" block-list:name="흐리멍덩"/>
   <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
