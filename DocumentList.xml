@@ -53,6 +53,7 @@
   <block-list:block block-list:abbreviated-name="느즈막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="느지막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="능이" block-list:name="능히"/>
+  <block-list:block block-list:abbreviated-name="다행이도" block-list:name="다행히도"/>
   <block-list:block block-list:abbreviated-name="단언컨데" block-list:name="단언컨대"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
   <block-list:block block-list:abbreviated-name="당췌" block-list:name="당최"/>
@@ -115,6 +116,7 @@
   <block-list:block block-list:abbreviated-name="벼게" block-list:name="베개"/>
   <block-list:block block-list:abbreviated-name="복음밥" block-list:name="볶음밥"/>
   <block-list:block block-list:abbreviated-name="봽겠습니다" block-list:name="뵙겠습니다"/>
+  <block-list:block block-list:abbreviated-name="부딛혔다" block-list:name="부딪혔다"/>
   <block-list:block block-list:abbreviated-name="불리우다" block-list:name="불리다"/>
   <block-list:block block-list:abbreviated-name="비로서" block-list:name="비로소"/>
   <block-list:block block-list:abbreviated-name="빈털털이" block-list:name="빈털터리"/>
@@ -124,6 +126,7 @@
   <block-list:block block-list:abbreviated-name="생각컨대" block-list:name="생각건대"/>
   <block-list:block block-list:abbreviated-name="생각할런지" block-list:name="생각할는지"/>
   <block-list:block block-list:abbreviated-name="생ㅇ리" block-list:name="생일"/>
+  <block-list:block block-list:abbreviated-name="서더리" block-list:name="서덜"/>
   <block-list:block block-list:abbreviated-name="서슴치" block-list:name="서슴지"/>
   <block-list:block block-list:abbreviated-name="선률" block-list:name="선율"/>
   <block-list:block block-list:abbreviated-name="설겆이" block-list:name="설거지"/>
@@ -188,7 +191,8 @@
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
-    <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
+  <block-list:block block-list:abbreviated-name="제작년" block-list:name="재작년"/>
+  <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
   <block-list:block block-list:abbreviated-name="짜집기" block-list:name="짜깁기"/>
   <block-list:block block-list:abbreviated-name="찌게" block-list:name="찌개"/>
   <block-list:block block-list:abbreviated-name="차돌배기" block-list:name="차돌박이"/>
