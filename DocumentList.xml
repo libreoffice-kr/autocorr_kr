@@ -66,6 +66,7 @@
   <block-list:block block-list:abbreviated-name="덩쿨" block-list:name="넝쿨"/>
   <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
   <block-list:block block-list:abbreviated-name="돌맹이" block-list:name="돌멩이"/>
+  <block-list:block block-list:abbreviated-name="들죽날죽" block-list:name="들쭉날쭉"/>
   <block-list:block block-list:abbreviated-name="돼싿" block-list:name="됐다"/>
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
@@ -193,6 +194,7 @@
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
+  <block-list:block block-list:abbreviated-name="주겅" block-list:name="죽어"/>
   <block-list:block block-list:abbreviated-name="제작년" block-list:name="재작년"/>
   <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
   <block-list:block block-list:abbreviated-name="짜집기" block-list:name="짜깁기"/>
