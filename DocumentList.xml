@@ -105,12 +105,14 @@
   <block-list:block block-list:abbreviated-name="무릎팍" block-list:name="무르팍"/>
   <block-list:block block-list:abbreviated-name="무심지" block-list:name="무심치"/>
   <block-list:block block-list:abbreviated-name="무얼" block-list:name="무엇을"/>
+  <block-list:block block-list:abbreviated-name="문안하다" block-list:name="무난하다"/>
   <block-list:block block-list:abbreviated-name="미싯가루" block-list:name="미숫가루"/>
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
   <block-list:block block-list:abbreviated-name="배개" block-list:name="베개"/>
+  <block-list:block block-list:abbreviated-name="뱜" block-list:name="뱀"/>
   <block-list:block block-list:abbreviated-name="배암" block-list:name="뱀"/>
   <block-list:block block-list:abbreviated-name="백분률" block-list:name="백분율"/>
   <block-list:block block-list:abbreviated-name="벼게" block-list:name="베개"/>
@@ -183,6 +185,7 @@
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
   <block-list:block block-list:abbreviated-name="웬지" block-list:name="왠지"/>
   <block-list:block block-list:abbreviated-name="위눈썹" block-list:name="윗눈썹"/>
+  <block-list:block block-list:abbreviated-name="위어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="윗어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="윗층" block-list:name="위층"/>
   <block-list:block block-list:abbreviated-name="으례" block-list:name="으레"/>
@@ -219,6 +222,7 @@
   <block-list:block block-list:abbreviated-name="하셧슴돠" block-list:name="하셨습니다"/>
   <block-list:block block-list:abbreviated-name="하셧어" block-list:name="하셨어"/>
   <block-list:block block-list:abbreviated-name="할랭" block-list:name="할래"/>
+  <block-list:block block-list:abbreviated-name="할라고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할려고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할뤠" block-list:name="할래"/>
   <block-list:block block-list:abbreviated-name="할이버지" block-list:name="할아버지"/>
