@@ -54,6 +54,7 @@
   <block-list:block block-list:abbreviated-name="느즈막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="느지막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="능이" block-list:name="능히"/>
+  <block-list:block block-list:abbreviated-name="다행이도" block-list:name="다행히도"/>
   <block-list:block block-list:abbreviated-name="단언컨데" block-list:name="단언컨대"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
   <block-list:block block-list:abbreviated-name="당췌" block-list:name="당최"/>
@@ -65,6 +66,7 @@
   <block-list:block block-list:abbreviated-name="던지" block-list:name="든지"/>
   <block-list:block block-list:abbreviated-name="덩쿨" block-list:name="넝쿨"/>
   <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
+  <block-list:block block-list:abbreviated-name="도룡뇽" block-list:name="도롱뇽"/>
   <block-list:block block-list:abbreviated-name="돌맹이" block-list:name="돌멩이"/>
   <block-list:block block-list:abbreviated-name="돼싿" block-list:name="됐다"/>
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
@@ -95,6 +97,7 @@
   <block-list:block block-list:abbreviated-name="머싯써" block-list:name="멋있어"/>
   <block-list:block block-list:abbreviated-name="멋장이" block-list:name="멋쟁이"/>
   <block-list:block block-list:abbreviated-name="메세지" block-list:name="메시지"/>
+  <block-list:block block-list:abbreviated-name="명난젓" block-list:name="명란젓"/>
   <block-list:block block-list:abbreviated-name="명애훼손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명예홰손" block-list:name="명예훼손"/>
   <block-list:block block-list:abbreviated-name="명외훼손" block-list:name="명예훼손"/>
@@ -117,6 +120,7 @@
   <block-list:block block-list:abbreviated-name="벼게" block-list:name="베개"/>
   <block-list:block block-list:abbreviated-name="복음밥" block-list:name="볶음밥"/>
   <block-list:block block-list:abbreviated-name="봽겠습니다" block-list:name="뵙겠습니다"/>
+  <block-list:block block-list:abbreviated-name="부딛혔다" block-list:name="부딪혔다"/>
   <block-list:block block-list:abbreviated-name="불리우다" block-list:name="불리다"/>
   <block-list:block block-list:abbreviated-name="비로서" block-list:name="비로소"/>
   <block-list:block block-list:abbreviated-name="빈털털이" block-list:name="빈털터리"/>
@@ -126,6 +130,7 @@
   <block-list:block block-list:abbreviated-name="생각컨대" block-list:name="생각건대"/>
   <block-list:block block-list:abbreviated-name="생각할런지" block-list:name="생각할는지"/>
   <block-list:block block-list:abbreviated-name="생ㅇ리" block-list:name="생일"/>
+  <block-list:block block-list:abbreviated-name="서더리" block-list:name="서덜"/>
   <block-list:block block-list:abbreviated-name="서슴치" block-list:name="서슴지"/>
   <block-list:block block-list:abbreviated-name="선률" block-list:name="선율"/>
   <block-list:block block-list:abbreviated-name="설겆이" block-list:name="설거지"/>
@@ -155,9 +160,12 @@
   <block-list:block block-list:abbreviated-name="않된다" block-list:name="안 된다"/>
   <block-list:block block-list:abbreviated-name="않이" block-list:name="아니"/>
   <block-list:block block-list:abbreviated-name="알맞는" block-list:name="알맞은"/>
+  <block-list:block block-list:abbreviated-name="않된다" block-list:name="안 된다"/>
+  <block-list:block block-list:abbreviated-name="야밤도주" block-list:name="야반도주"/>
   <block-list:block block-list:abbreviated-name="애시당초" block-list:name="애당초"/>
   <block-list:block block-list:abbreviated-name="어따대고" block-list:name="얻다 대고"/>
   <block-list:block block-list:abbreviated-name="어떻해" block-list:name="어떡해"/>
+  <block-list:block block-list:abbreviated-name="어렴풋히" block-list:name="어렴풋이"/>
   <block-list:block block-list:abbreviated-name="어의없는" block-list:name="어이없는"/>
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
@@ -170,11 +178,13 @@
   <block-list:block block-list:abbreviated-name="예뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="오랫만" block-list:name="오랜만"/>
   <block-list:block block-list:abbreviated-name="올께" block-list:name="올게"/>
+  <block-list:block block-list:abbreviated-name="오이소배기" block-list:name="오이소박이"/>
   <block-list:block block-list:abbreviated-name="와싿" block-list:name="왔다"/>
   <block-list:block block-list:abbreviated-name="와싿가싿" block-list:name="왔다갔다"/>
   <block-list:block block-list:abbreviated-name="왠만하면" block-list:name="웬만하면"/>
   <block-list:block block-list:abbreviated-name="외형율" block-list:name="외형률"/>
   <block-list:block block-list:abbreviated-name="요컨데" block-list:name="요컨대"/>
+  <block-list:block block-list:abbreviated-name="울부짓다" block-list:name="울부짖다"/>
   <block-list:block block-list:abbreviated-name="웃넓이" block-list:name="윗넓이"/>
   <block-list:block block-list:abbreviated-name="웃도리" block-list:name="윗도리"/>
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
@@ -190,6 +200,8 @@
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
+  <block-list:block block-list:abbreviated-name="제작년" block-list:name="재작년"/>
+  <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
   <block-list:block block-list:abbreviated-name="짜집기" block-list:name="짜깁기"/>
   <block-list:block block-list:abbreviated-name="찌게" block-list:name="찌개"/>
   <block-list:block block-list:abbreviated-name="차돌배기" block-list:name="차돌박이"/>
@@ -225,6 +237,7 @@
   <block-list:block block-list:abbreviated-name="해도지" block-list:name="해돋이"/>
   <block-list:block block-list:abbreviated-name="해싿" block-list:name="했다"/>
   <block-list:block block-list:abbreviated-name="해쓰빈다" block-list:name="했습니다"/>
+  <block-list:block block-list:abbreviated-name="해질녁" block-list:name="해 질 녘"/>
   <block-list:block block-list:abbreviated-name="핼쓱하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="햇다" block-list:name="했다"/>
   <block-list:block block-list:abbreviated-name="햇스빈다" block-list:name="했습니다"/>
@@ -237,6 +250,7 @@
   <block-list:block block-list:abbreviated-name="헥갈리다" block-list:name="헷갈리다"/>
   <block-list:block block-list:abbreviated-name="헬쑥하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="혼나규" block-list:name="혼나고"/>
+  <block-list:block block-list:abbreviated-name="회계년도" block-list:name="회계연도"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="흐리멍텅" block-list:name="흐리멍덩"/>
   <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
