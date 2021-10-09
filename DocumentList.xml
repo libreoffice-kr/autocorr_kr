@@ -191,6 +191,7 @@
   <block-list:block block-list:abbreviated-name="웃중방" block-list:name="윗중방"/>
   <block-list:block block-list:abbreviated-name="웬지" block-list:name="왠지"/>
   <block-list:block block-list:abbreviated-name="위눈썹" block-list:name="윗눈썹"/>
+  <block-list:block block-list:abbreviated-name="위어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="윗어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="윗층" block-list:name="위층"/>
   <block-list:block block-list:abbreviated-name="으례" block-list:name="으레"/>
@@ -228,6 +229,7 @@
   <block-list:block block-list:abbreviated-name="하셧슴돠" block-list:name="하셨습니다"/>
   <block-list:block block-list:abbreviated-name="하셧어" block-list:name="하셨어"/>
   <block-list:block block-list:abbreviated-name="할랭" block-list:name="할래"/>
+  <block-list:block block-list:abbreviated-name="할라고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할려고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할뤠" block-list:name="할래"/>
   <block-list:block block-list:abbreviated-name="할이버지" block-list:name="할아버지"/>
