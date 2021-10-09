@@ -4,6 +4,7 @@
   <block-list:block block-list:abbreviated-name="가튼데" block-list:name="같은데"/>
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
+  <block-list:block block-list:abbreviated-name="감사하빈다" block-list:name="감사합니다"/>
   <block-list:block block-list:abbreviated-name="개구장이" block-list:name="개구쟁이"/>
   <block-list:block block-list:abbreviated-name="갯수" block-list:name="개수"/>
   <block-list:block block-list:abbreviated-name="거북치" block-list:name="거북지"/>
@@ -75,6 +76,7 @@
   <block-list:block block-list:abbreviated-name="된장찌게" block-list:name="된장찌개"/>
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
+  <block-list:block block-list:abbreviated-name="떡뽀끼" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떡볶기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떢볶이" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="뚝빼기" block-list:name="뚝배기"/>
@@ -234,11 +236,14 @@
   <block-list:block block-list:abbreviated-name="해꾸랴" block-list:name="했구랴"/>
   <block-list:block block-list:abbreviated-name="해도지" block-list:name="해돋이"/>
   <block-list:block block-list:abbreviated-name="해싿" block-list:name="했다"/>
+  <block-list:block block-list:abbreviated-name="해쓰빈다" block-list:name="했습니다"/>
   <block-list:block block-list:abbreviated-name="해질녁" block-list:name="해 질 녘"/>
   <block-list:block block-list:abbreviated-name="핼쓱하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="햇다" block-list:name="했다"/>
+  <block-list:block block-list:abbreviated-name="햇스빈다" block-list:name="했습니다"/>
   <block-list:block block-list:abbreviated-name="햇쑴니" block-list:name="했습니"/>
   <block-list:block block-list:abbreviated-name="햇어" block-list:name="했어"/>
+  <block-list:block block-list:abbreviated-name="했스빈다" block-list:name="했습니다"/>
   <block-list:block block-list:abbreviated-name="했써" block-list:name="했어"/>
   <block-list:block block-list:abbreviated-name="헛점" block-list:name="허점"/>
   <block-list:block block-list:abbreviated-name="헤택" block-list:name="혜택"/>
