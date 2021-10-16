@@ -179,6 +179,7 @@
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어줍잖다" block-list:name="어쭙잖다"/>
+  <block-list:block block-list:abbreviated-name="어짜피" block-list:name="어차피"/>
   <block-list:block block-list:abbreviated-name="업ㅂ다" block-list:name="없다"/>
   <block-list:block block-list:abbreviated-name="업서용" block-list:name="없어요"/>
   <block-list:block block-list:abbreviated-name="역활" block-list:name="역할"/>
@@ -191,6 +192,7 @@
   <block-list:block block-list:abbreviated-name="와싿" block-list:name="왔다"/>
   <block-list:block block-list:abbreviated-name="와싿가싿" block-list:name="왔다갔다"/>
   <block-list:block block-list:abbreviated-name="왠만하면" block-list:name="웬만하면"/>
+  <block-list:block block-list:abbreviated-name="왠일" block-list:name="웬일"/>
   <block-list:block block-list:abbreviated-name="외형율" block-list:name="외형률"/>
   <block-list:block block-list:abbreviated-name="요컨데" block-list:name="요컨대"/>
   <block-list:block block-list:abbreviated-name="우뢰소리" block-list:name="우레소리"/>
@@ -208,6 +210,7 @@
   <block-list:block block-list:abbreviated-name="이뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="이어싿" block-list:name="이었다"/>
   <block-list:block block-list:abbreviated-name="익숙치" block-list:name="익숙지"/>
+  <block-list:block block-list:abbreviated-name="일일히" block-list:name="일일이"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
