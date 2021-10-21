@@ -206,12 +206,14 @@
   <block-list:block block-list:abbreviated-name="위어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="윗어른" block-list:name="웃어른"/>
   <block-list:block block-list:abbreviated-name="윗층" block-list:name="위층"/>
+  <block-list:block block-list:abbreviated-name="육계장" block-list:name="육개장"/>
   <block-list:block block-list:abbreviated-name="으례" block-list:name="으레"/>
   <block-list:block block-list:abbreviated-name="읍니다" block-list:name="습니다"/>
   <block-list:block block-list:abbreviated-name="이뿌게" block-list:name="예쁘게"/>
   <block-list:block block-list:abbreviated-name="이어싿" block-list:name="이었다"/>
   <block-list:block block-list:abbreviated-name="익숙치" block-list:name="익숙지"/>
   <block-list:block block-list:abbreviated-name="일일히" block-list:name="일일이"/>
+  <block-list:block block-list:abbreviated-name="일찌감찌" block-list:name="일찌감치"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
