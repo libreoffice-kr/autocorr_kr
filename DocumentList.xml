@@ -248,6 +248,8 @@
   <block-list:block block-list:abbreviated-name="할라고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할려고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할뤠" block-list:name="할래"/>
+  <block-list:block block-list:abbreviated-name="할수없다" block-list:name="할 수 없다"/>
+  <block-list:block block-list:abbreviated-name="할수없이" block-list:name="할 수 없이"/>
   <block-list:block block-list:abbreviated-name="할이버지" block-list:name="할아버지"/>
   <block-list:block block-list:abbreviated-name="할쟉" block-list:name="할짝"/>
   <block-list:block block-list:abbreviated-name="함수값" block-list:name="함숫값"/>
