@@ -57,6 +57,7 @@
   <block-list:block block-list:abbreviated-name="다행이도" block-list:name="다행히도"/>
   <block-list:block block-list:abbreviated-name="단언컨데" block-list:name="단언컨대"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
+  <block-list:block block-list:abbreviated-name="당므" block-list:name="다음"/>
   <block-list:block block-list:abbreviated-name="당췌" block-list:name="당최"/>
   <block-list:block block-list:abbreviated-name="대표값" block-list:name="대푯값"/>
   <block-list:block block-list:abbreviated-name="댓가" block-list:name="대가"/>
@@ -132,6 +133,7 @@
   <block-list:block block-list:abbreviated-name="불리우다" block-list:name="불리다"/>
   <block-list:block block-list:abbreviated-name="비로서" block-list:name="비로소"/>
   <block-list:block block-list:abbreviated-name="빈털털이" block-list:name="빈털터리"/>
+  <block-list:block block-list:abbreviated-name="빠릴" block-list:name="빨리"/>
   <block-list:block block-list:abbreviated-name="삭월세" block-list:name="사글세"/>
   <block-list:block block-list:abbreviated-name="살려줏메" block-list:name="살려주셈"/>
   <block-list:block block-list:abbreviated-name="새벽녁" block-list:name="새벽녘"/>
@@ -248,8 +250,6 @@
   <block-list:block block-list:abbreviated-name="할라고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할려고" block-list:name="하려고"/>
   <block-list:block block-list:abbreviated-name="할뤠" block-list:name="할래"/>
-  <block-list:block block-list:abbreviated-name="할수없다" block-list:name="할 수 없다"/>
-  <block-list:block block-list:abbreviated-name="할수없이" block-list:name="할 수 없이"/>
   <block-list:block block-list:abbreviated-name="할이버지" block-list:name="할아버지"/>
   <block-list:block block-list:abbreviated-name="할쟉" block-list:name="할짝"/>
   <block-list:block block-list:abbreviated-name="함수값" block-list:name="함숫값"/>
