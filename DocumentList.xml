@@ -18,6 +18,7 @@
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
   <block-list:block block-list:abbreviated-name="구렛나루" block-list:name="구레나룻"/>
   <block-list:block block-list:abbreviated-name="궂이" block-list:name="굳이"/>
+  <block-list:block block-list:abbreviated-name="궤념" block-list:name="괘념"/>
   <block-list:block block-list:abbreviated-name="귀뜸" block-list:name="귀띰"/>
   <block-list:block block-list:abbreviated-name="귀여버" block-list:name="귀여워"/>
   <block-list:block block-list:abbreviated-name="그런대" block-list:name="그런데"/>
@@ -224,6 +225,9 @@
   <block-list:block block-list:abbreviated-name="제작년" block-list:name="재작년"/>
   <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
   <block-list:block block-list:abbreviated-name="진학율" block-list:name="진학률"/>
+  <block-list:block block-list:abbreviated-name="짖궂은" block-list:name="짓궂은"/>
+  <block-list:block block-list:abbreviated-name="짖궃은" block-list:name="짓궂은"/>
+  <block-list:block block-list:abbreviated-name="짓궃은" block-list:name="짓궂은"/>
   <block-list:block block-list:abbreviated-name="짜집기" block-list:name="짜깁기"/>
   <block-list:block block-list:abbreviated-name="찌게" block-list:name="찌개"/>
   <block-list:block block-list:abbreviated-name="차돌배기" block-list:name="차돌박이"/>
