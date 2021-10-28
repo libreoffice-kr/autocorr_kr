@@ -124,6 +124,7 @@
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
+   <block-list:block block-list:abbreviated-name="바램" block-list:name="바람"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
   <block-list:block block-list:abbreviated-name="배개" block-list:name="베개"/>
   <block-list:block block-list:abbreviated-name="배암" block-list:name="뱀"/>
@@ -223,6 +224,7 @@
   <block-list:block block-list:abbreviated-name="일찌감찌" block-list:name="일찌감치"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
+   <block-list:block block-list:abbreviated-name="잠궜다" block-list:name="잠갔다"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
   <block-list:block block-list:abbreviated-name="주겅" block-list:name="죽어"/>
@@ -292,4 +294,5 @@
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
   <block-list:block block-list:abbreviated-name="힘듬" block-list:name="힘듦"/>
   <block-list:block block-list:abbreviated-name="힘쌔고" block-list:name="힘세고"/>
+ 
 </block-list:block-list>
