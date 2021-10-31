@@ -56,6 +56,7 @@
   <block-list:block block-list:abbreviated-name="느지막히" block-list:name="느지막이"/>
   <block-list:block block-list:abbreviated-name="능이" block-list:name="능히"/>
   <block-list:block block-list:abbreviated-name="다행이도" block-list:name="다행히도"/>
+  <block-list:block block-list:abbreviated-name="닥달" block-list:name="닦달"/>
   <block-list:block block-list:abbreviated-name="단언컨데" block-list:name="단언컨대"/>
   <block-list:block block-list:abbreviated-name="닭계장" block-list:name="닭개장"/>
   <block-list:block block-list:abbreviated-name="당므" block-list:name="다음"/>
@@ -280,6 +281,7 @@
   <block-list:block block-list:abbreviated-name="했써" block-list:name="했어"/>
   <block-list:block block-list:abbreviated-name="헛점" block-list:name="허점"/>
   <block-list:block block-list:abbreviated-name="헤택" block-list:name="혜택"/>
+  <block-list:block block-list:abbreviated-name="햇갈리다" block-list:name="헷갈리다"/>
   <block-list:block block-list:abbreviated-name="헥갈리다" block-list:name="헷갈리다"/>
   <block-list:block block-list:abbreviated-name="헬쑥하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="혼나규" block-list:name="혼나고"/>
