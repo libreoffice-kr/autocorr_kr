@@ -36,10 +36,10 @@ jobs:
           echo test, and deploy your project.
       - name: Install dependencies
         run: | 
-          apt-get update 
-          apt-get -y --no-install-recommends install libxml2-utils
-          apt-get autoremove -y 
-          apt-get clean
+          sudo apt-get update 
+          sudo apt-get -y --no-install-recommends install libxml2-utils
+          sudo apt-get autoremove -y 
+          sudo apt-get clean
       - name: XML Lint
         run: |
           xmllint DocumentList.xml --noout
