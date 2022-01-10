@@ -1,0 +1,11 @@
+name: 'XML Lint'
+descroption: 'Lint DocumentList.xml with xmllint'
+inputs: 
+    xml-file: 
+        description: 'The DocumentList.xml file'
+        required: true
+runs:
+    using: 'docker'
+    image: 'Dockerfile'
+    args: 
+      - ${{ inputs.xml-file }}
