@@ -83,6 +83,7 @@
   <block-list:block block-list:abbreviated-name="뒤치닥거리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="뒷치다꺼리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="뒷치닥거리" block-list:name="뒤치다꺼리"/>
+  <block-list:block block-list:abbreviated-name="뒷치닥꺼리" block-list:name="뒤치다꺼리"/>  
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떡뽀끼" block-list:name="떡볶이"/>
@@ -156,6 +157,7 @@
   <block-list:block block-list:abbreviated-name="성공율" block-list:name="성공률"/>
   <block-list:block block-list:abbreviated-name="세째" block-list:name="셋째"/>
   <block-list:block block-list:abbreviated-name="세수대야" block-list:name="세숫대야"/>
+  <block-list:block block-list:abbreviated-name="소숫점" block-list:name="소수점"/>
   <block-list:block block-list:abbreviated-name="손구루마" block-list:name="손수레"/>
   <block-list:block block-list:abbreviated-name="솔직이" block-list:name="솔직히"/>
   <block-list:block block-list:abbreviated-name="수퀑" block-list:name="수꿩"/>
@@ -248,6 +250,7 @@
   <block-list:block block-list:abbreviated-name="최소값" block-list:name="최솟값"/>
   <block-list:block block-list:abbreviated-name="춥드라" block-list:name="춥더라"/>
   <block-list:block block-list:abbreviated-name="치고박고" block-list:name="치고받고"/>
+  <block-list:block block-list:abbreviated-name="치맛살" block-list:name="치마살"/>
   <block-list:block block-list:abbreviated-name="컨텐츠" block-list:name="콘텐츠"/>
   <block-list:block block-list:abbreviated-name="켸켸묵다" block-list:name="케케묵다"/>
   <block-list:block block-list:abbreviated-name="통채로" block-list:name="통째로"/>
