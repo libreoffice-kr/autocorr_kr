@@ -229,6 +229,7 @@
   <block-list:block block-list:abbreviated-name="일찌감찌" block-list:name="일찌감치"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
+   <block-list:block block-list:abbreviated-name="잠궜다" block-list:name="잠갔다"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
   <block-list:block block-list:abbreviated-name="주겅" block-list:name="죽어"/>
@@ -301,4 +302,5 @@
   <block-list:block block-list:abbreviated-name="힘들게싿" block-list:name="힘들겠다"/>
   <block-list:block block-list:abbreviated-name="힘듬" block-list:name="힘듦"/>
   <block-list:block block-list:abbreviated-name="힘쌔고" block-list:name="힘세고"/>
+ 
 </block-list:block-list>
