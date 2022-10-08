@@ -5,6 +5,7 @@
   <block-list:block block-list:abbreviated-name="각별이" block-list:name="각별히"/>
   <block-list:block block-list:abbreviated-name="간소이" block-list:name="간소히"/>
   <block-list:block block-list:abbreviated-name="감사하빈다" block-list:name="감사합니다"/>
+  <block-list:block block-list:abbreviated-name="갓므" block-list:name="가슴"/>
   <block-list:block block-list:abbreviated-name="개구장이" block-list:name="개구쟁이"/>
   <block-list:block block-list:abbreviated-name="갯수" block-list:name="개수"/>
   <block-list:block block-list:abbreviated-name="거북치" block-list:name="거북지"/>
@@ -26,6 +27,7 @@
   <block-list:block block-list:abbreviated-name="그랫어요" block-list:name="그랬어요"/>
   <block-list:block block-list:abbreviated-name="그랬군아" block-list:name="그랬구나"/>
   <block-list:block block-list:abbreviated-name="그랬데" block-list:name="그랬대"/>
+  <block-list:block block-list:abbreviated-name="그랬따" block-list:name="그랬다"/>
   <block-list:block block-list:abbreviated-name="근사값" block-list:name="근삿값"/>
   <block-list:block block-list:abbreviated-name="기대값" block-list:name="기댓값"/>
   <block-list:block block-list:abbreviated-name="기여워" block-list:name="귀여워"/>
@@ -83,8 +85,9 @@
   <block-list:block block-list:abbreviated-name="뒤치닥거리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="뒷치다꺼리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="뒷치닥거리" block-list:name="뒤치다꺼리"/>
-  <block-list:block block-list:abbreviated-name="뒷치닥꺼리" block-list:name="뒤치다꺼리"/>  
+  <block-list:block block-list:abbreviated-nam오e="뒷치닥꺼리" block-list:name="뒤치다꺼리"/>  
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
+  <block-list:block block-list:abbreviated-name="떄문에" block-list:name="때문에"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떡뽀끼" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떡볶기" block-list:name="떡볶이"/>
@@ -198,6 +201,7 @@
   <block-list:block block-list:abbreviated-name="연애인" block-list:name="연예인"/>
   <block-list:block block-list:abbreviated-name="예뿌" block-list:name="예뻐"/>
   <block-list:block block-list:abbreviated-name="예뿌게" block-list:name="예쁘게"/>
+  <block-list:block block-list:abbreviated-name="오나전" block-list:name="완전"/>
   <block-list:block block-list:abbreviated-name="오랫만" block-list:name="오랜만"/>
   <block-list:block block-list:abbreviated-name="올께" block-list:name="올게"/>
   <block-list:block block-list:abbreviated-name="오이소배기" block-list:name="오이소박이"/>
@@ -228,6 +232,7 @@
   <block-list:block block-list:abbreviated-name="일일히" block-list:name="일일이"/>
   <block-list:block block-list:abbreviated-name="일찌감찌" block-list:name="일찌감치"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
+  <block-list:block block-list:abbreviated-name="잇어요" block-list:name="있어요"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
@@ -259,6 +264,7 @@
   <block-list:block block-list:abbreviated-name="핑게" block-list:name="핑계"/>
   <block-list:block block-list:abbreviated-name="하눙" block-list:name="하는"/>
   <block-list:block block-list:abbreviated-name="하마트면" block-list:name="하마터면"/>
+  <block-list:block block-list:abbreviated-name="하빈다" block-list:name="합니다"/>
   <block-list:block block-list:abbreviated-name="하세유" block-list:name="하세요"/>
   <block-list:block block-list:abbreviated-name="하셧슴돠" block-list:name="하셨습니다"/>
   <block-list:block block-list:abbreviated-name="하셧어" block-list:name="하셨어"/>
