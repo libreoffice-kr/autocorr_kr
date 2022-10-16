@@ -13,7 +13,7 @@
   <block-list:block block-list:abbreviated-name="걸맞는" block-list:name="걸맞은"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
-  <block-list:block block-list:abbreviated-name="고추가루" block-list:name="고춧가루"/>  
+  <block-list:block block-list:abbreviated-name="고추가루" block-list:name="고춧가루"/>
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="곱배기" block-list:name="곱빼기"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
@@ -75,15 +75,18 @@
   <block-list:block block-list:abbreviated-name="들어났다" block-list:name="드러났다"/>
   <block-list:block block-list:abbreviated-name="들죽날죽" block-list:name="들쭉날쭉"/>
   <block-list:block block-list:abbreviated-name="돼싿" block-list:name="됐다"/>
+  <block-list:block block-list:abbreviated-name="돼어" block-list:name="되어"/>
   <block-list:block block-list:abbreviated-name="돼었다" block-list:name="되었다"/>
+  <block-list:block block-list:abbreviated-name="됀다" block-list:name="된다"/>
   <block-list:block block-list:abbreviated-name="됏당" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="되물림" block-list:name="대물림"/>
   <block-list:block block-list:abbreviated-name="되요" block-list:name="돼요"/>
   <block-list:block block-list:abbreviated-name="된장찌게" block-list:name="된장찌개"/>
+  <block-list:block block-list:abbreviated-name="됫다" block-list:name="되었다"/>
   <block-list:block block-list:abbreviated-name="뒤치닥거리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="뒷치다꺼리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="뒷치닥거리" block-list:name="뒤치다꺼리"/>
-  <block-list:block block-list:abbreviated-name="뒷치닥꺼리" block-list:name="뒤치다꺼리"/>  
+  <block-list:block block-list:abbreviated-name="뒷치닥꺼리" block-list:name="뒤치다꺼리"/>
   <block-list:block block-list:abbreviated-name="딱다구리" block-list:name="딱따구리"/>
   <block-list:block block-list:abbreviated-name="떡복기" block-list:name="떡볶이"/>
   <block-list:block block-list:abbreviated-name="떡뽀끼" block-list:name="떡볶이"/>
@@ -258,6 +261,7 @@
   <block-list:block block-list:abbreviated-name="파괘한다" block-list:name="파괴한다"/>
   <block-list:block block-list:abbreviated-name="핑게" block-list:name="핑계"/>
   <block-list:block block-list:abbreviated-name="하눙" block-list:name="하는"/>
+  <block-list:block block-list:abbreviated-name="하는대" block-list:name="하는데"/>
   <block-list:block block-list:abbreviated-name="하마트면" block-list:name="하마터면"/>
   <block-list:block block-list:abbreviated-name="하세유" block-list:name="하세요"/>
   <block-list:block block-list:abbreviated-name="하셧슴돠" block-list:name="하셨습니다"/>
@@ -284,6 +288,10 @@
   <block-list:block block-list:abbreviated-name="햇어" block-list:name="했어"/>
   <block-list:block block-list:abbreviated-name="했스빈다" block-list:name="했습니다"/>
   <block-list:block block-list:abbreviated-name="했써" block-list:name="했어"/>
+  <block-list:block block-list:abbreviated-name="햿다" block-list:name="했다"/>
+  <block-list:block block-list:abbreviated-name="햿어" block-list:name="했어"/>
+  <block-list:block block-list:abbreviated-name="헀다" block-list:name="했다"/>
+  <block-list:block block-list:abbreviated-name="헀어" block-list:name="했어"/>
   <block-list:block block-list:abbreviated-name="헛점" block-list:name="허점"/>
   <block-list:block block-list:abbreviated-name="헤택" block-list:name="혜택"/>
   <block-list:block block-list:abbreviated-name="햇갈리다" block-list:name="헷갈리다"/>
@@ -291,7 +299,7 @@
   <block-list:block block-list:abbreviated-name="헬쑥하다" block-list:name="핼쑥하다"/>
   <block-list:block block-list:abbreviated-name="혼나규" block-list:name="혼나고"/>
   <block-list:block block-list:abbreviated-name="회계년도" block-list:name="회계연도"/>
-  <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>  
+  <block-list:block block-list:abbreviated-name="회수" block-list:name="횟수"/>
   <block-list:block block-list:abbreviated-name="흉헙다" block-list:name="흉업다"/>
   <block-list:block block-list:abbreviated-name="흐리멍텅" block-list:name="흐리멍덩"/>
   <block-list:block block-list:abbreviated-name="희안" block-list:name="희한"/>
