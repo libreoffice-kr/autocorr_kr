@@ -127,6 +127,7 @@
   <block-list:block block-list:abbreviated-name="미쟁이" block-list:name="미장이"/>
   <block-list:block block-list:abbreviated-name="미치게싿" block-list:name="미치겠다"/>
   <block-list:block block-list:abbreviated-name="밑둥" block-list:name="밑동"/>
+  <block-list:block block-list:abbreviated-name="받아드리다" block-list:name="받아들이다"/>
   <block-list:block block-list:abbreviated-name="밭사둔" block-list:name="밭사돈"/>
   <block-list:block block-list:abbreviated-name="배개" block-list:name="베개"/>
   <block-list:block block-list:abbreviated-name="배암" block-list:name="뱀"/>
@@ -146,6 +147,7 @@
   <block-list:block block-list:abbreviated-name="살려줏메" block-list:name="살려주셈"/>
   <block-list:block block-list:abbreviated-name="새벽녁" block-list:name="새벽녘"/>
   <block-list:block block-list:abbreviated-name="생각컨대" block-list:name="생각건대"/>
+  <block-list:block block-list:abbreviated-name="새우다" block-list:name="세우다"/>
   <block-list:block block-list:abbreviated-name="생각할런지" block-list:name="생각할는지"/>
   <block-list:block block-list:abbreviated-name="생ㅇ리" block-list:name="생일"/>
   <block-list:block block-list:abbreviated-name="서더리" block-list:name="서덜"/>
@@ -256,6 +258,7 @@
   <block-list:block block-list:abbreviated-name="퇴마루" block-list:name="툇마루"/>
   <block-list:block block-list:abbreviated-name="틈틈히" block-list:name="틈틈이"/>
   <block-list:block block-list:abbreviated-name="파괘한다" block-list:name="파괴한다"/>
+  <block-list:block block-list:abbreviated-name="폐혜" block-list:name="폐해"/>
   <block-list:block block-list:abbreviated-name="핑게" block-list:name="핑계"/>
   <block-list:block block-list:abbreviated-name="하눙" block-list:name="하는"/>
   <block-list:block block-list:abbreviated-name="하마트면" block-list:name="하마터면"/>
