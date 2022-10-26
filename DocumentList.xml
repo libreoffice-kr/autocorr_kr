@@ -12,6 +12,7 @@
   <block-list:block block-list:abbreviated-name="건들이다" block-list:name="건드리다"/>
   <block-list:block block-list:abbreviated-name="걸맞는" block-list:name="걸맞은"/>
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
+  <block-list:block block-list:abbreviated-name="겨땀" block-list:name="곁땀"/>
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="고추가루" block-list:name="고춧가루"/>  
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
@@ -230,6 +231,7 @@
   <block-list:block block-list:abbreviated-name="일찌감찌" block-list:name="일찌감치"/>
   <block-list:block block-list:abbreviated-name="일찌기" block-list:name="일찍이"/>
   <block-list:block block-list:abbreviated-name="있읍" block-list:name="있습"/>
+  <block-list:block block-list:abbreviated-name="잠궜다" block-list:name="잠갔다"/>
   <block-list:block block-list:abbreviated-name="전세집" block-list:name="전셋집"/>
   <block-list:block block-list:abbreviated-name="절대값" block-list:name="절댓값"/>
   <block-list:block block-list:abbreviated-name="주겅" block-list:name="죽어"/>
