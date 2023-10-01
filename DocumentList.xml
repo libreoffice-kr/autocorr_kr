@@ -44,6 +44,7 @@
   <block-list:block block-list:abbreviated-name="나즈막하다" block-list:name="나지막하다"/>
   <block-list:block block-list:abbreviated-name="낭떨어지" block-list:name="낭떠러지"/>
   <block-list:block block-list:abbreviated-name="내노라" block-list:name="내로라"/>
+  <block-list:block block-list:abbreviated-name="냄시" block-list:name="냄새"/>
   <block-list:block block-list:abbreviated-name="넉넉치" block-list:name="넉넉지"/>
   <block-list:block block-list:abbreviated-name="널부러지다" block-list:name="널브러지다"/>
   <block-list:block block-list:abbreviated-name="넓다랗다" block-list:name="널따랗다"/>
@@ -189,6 +190,7 @@
   <block-list:block block-list:abbreviated-name="어따대고" block-list:name="얻다 대고"/>
   <block-list:block block-list:abbreviated-name="어떻해" block-list:name="어떡해"/>
   <block-list:block block-list:abbreviated-name="어렴풋히" block-list:name="어렴풋이"/>
+  <block-list:block block-list:abbreviated-name="어마무시하다" block-list:name="어마어마하다"/>
   <block-list:block block-list:abbreviated-name="어의없는" block-list:name="어이없는"/>
   <block-list:block block-list:abbreviated-name="어의없다" block-list:name="어이없다"/>
   <block-list:block block-list:abbreviated-name="어이업다" block-list:name="어이없다"/>
@@ -237,6 +239,8 @@
   <block-list:block block-list:abbreviated-name="주겅" block-list:name="죽어"/>
   <block-list:block block-list:abbreviated-name="제작년" block-list:name="재작년"/>
   <block-list:block block-list:abbreviated-name="젭라" block-list:name="제발"/>
+  <block-list:block block-list:abbreviated-name="조아" block-list:name="좋아"/>
+  <block-list:block block-list:abbreviated-name="조와" block-list:name="좋아"/>
   <block-list:block block-list:abbreviated-name="진학율" block-list:name="진학률"/>
   <block-list:block block-list:abbreviated-name="짖궂은" block-list:name="짓궂은"/>
   <block-list:block block-list:abbreviated-name="짖궃은" block-list:name="짓궂은"/>
@@ -266,6 +270,7 @@
   <block-list:block block-list:abbreviated-name="하세유" block-list:name="하세요"/>
   <block-list:block block-list:abbreviated-name="하셧슴돠" block-list:name="하셨습니다"/>
   <block-list:block block-list:abbreviated-name="하셧어" block-list:name="하셨어"/>
+  <block-list:block block-list:abbreviated-name="하찬타" block-list:name="하찮다"/>
   <block-list:block block-list:abbreviated-name="할께" block-list:name="할게"/>
   <block-list:block block-list:abbreviated-name="할랭" block-list:name="할래"/>
   <block-list:block block-list:abbreviated-name="할라고" block-list:name="하려고"/>
