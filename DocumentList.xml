@@ -14,7 +14,8 @@
   <block-list:block block-list:abbreviated-name="겄서" block-list:name="겠어"/>
   <block-list:block block-list:abbreviated-name="겨땀" block-list:name="곁땀"/>
   <block-list:block block-list:abbreviated-name="겟어" block-list:name="겠어"/>
-  <block-list:block block-list:abbreviated-name="고추가루" block-list:name="고춧가루"/>  
+  <block-list:block block-list:abbreviated-name="고추가루" block-list:name="고춧가루"/>
+  <block-list:block block-list:abbreviated-name="과간" block-list:name="가관"/>
   <block-list:block block-list:abbreviated-name="곰곰히" block-list:name="곰곰이"/>
   <block-list:block block-list:abbreviated-name="곱배기" block-list:name="곱빼기"/>
   <block-list:block block-list:abbreviated-name="괜차나여" block-list:name="괜찮아요"/>
@@ -171,6 +172,7 @@
   <block-list:block block-list:abbreviated-name="숫은행나무" block-list:name="수은행나무"/>
   <block-list:block block-list:abbreviated-name="스빈다" block-list:name="습니다"/>
   <block-list:block block-list:abbreviated-name="시라소니" block-list:name="스라소니"/>
+  <block-list:block block-list:abbreviated-name="실증" block-list:name="싫증"/>
   <block-list:block block-list:abbreviated-name="실패률" block-list:name="실패율"/>
   <block-list:block block-list:abbreviated-name="싫엇" block-list:name="싫었"/>
   <block-list:block block-list:abbreviated-name="쌍동이" block-list:name="쌍둥이"/>
