@@ -70,6 +70,7 @@
   <block-list:block block-list:abbreviated-name="더웤" block-list:name="더워"/>
   <block-list:block block-list:abbreviated-name="던지" block-list:name="든지"/>
   <block-list:block block-list:abbreviated-name="덩쿨" block-list:name="넝쿨"/>
+  <block-list:block block-list:abbreviated-name="데충" block-list:name="대충"/>
   <block-list:block block-list:abbreviated-name="도데체" block-list:name="도대체"/>
   <block-list:block block-list:abbreviated-name="도룡뇽" block-list:name="도롱뇽"/>
   <block-list:block block-list:abbreviated-name="돌맹이" block-list:name="돌멩이"/>
@@ -135,6 +136,7 @@
   <block-list:block block-list:abbreviated-name="배풀다" block-list:name="베풀다"/>
   <block-list:block block-list:abbreviated-name="뵈요" block-list:name="봬요"/>
   <block-list:block block-list:abbreviated-name="백분률" block-list:name="백분율"/>
+  <block-list:block block-list:abbreviated-name="법적 조취" block-list:name="법적 조치"/>
   <block-list:block block-list:abbreviated-name="벼게" block-list:name="베개"/>
   <block-list:block block-list:abbreviated-name="복음밥" block-list:name="볶음밥"/>
   <block-list:block block-list:abbreviated-name="봉숭화" block-list:name="봉숭아"/>
