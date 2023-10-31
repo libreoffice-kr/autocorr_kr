@@ -25,6 +25,9 @@
 <block-list:block block-list:abbreviated-name="명예홰손" block-list:name="명예훼손"/>
 ```
 
+해당 바꿔야 할 말을 추가할 때, MS Word 및 HWP에 있는 내용을 가지고 추가를 해야합니다.
+
+2023년 10월 31일 추가 작성
 
 ### 주의사항 
 
@@ -37,6 +40,19 @@
   [네이버 국어사전의 금새 결과](https://ko.dict.naver.com/#/entry/koko/e471eb9cfdc147d2a866158542ef9c7b)
 
 그렇기 때문에 아래의 링크를 참고하여 교정할 낱말이, 다른 뜻의 낱말로 쓰이는 경우가 있는 지 검색 후에 전달해주시기 바랍니다.
+
+그리고, MS Word 및 HWP(한글 워드)에 있는 교정 목록의 내용을 가지고 추가해야 합니다.
+
+얘를 들어, HWP(한글 워드)의 `도구 > 빠른 교정 > 빠른 교정 내용`에 나오는 내용이거나 MS Word의 `자동 고침`에 있는 내용에 한하여 추가하길 부탁드립니다.
+
+HWP(한글 워드)의 `도구 > 빠른 교정 > 빠른 교정 내용` 의 예
+
+<img width="552" alt="스크린샷 2023-10-02 오전 2 20 22" src="https://github.com/studioego/autocorr_kr/assets/20002/c11ed3a2-bbd2-481e-a8b9-71865d83adf1">
+
+MS Word의 `자동 고침`에 있는 예
+
+<img width="476" alt="스크린샷 2023-10-02 오전 12 01 21" src="https://github.com/studioego/autocorr_kr/assets/20002/29ab9bfc-48c9-4a8b-929d-2500708fc891">
+
 
 ##### 참고
 
@@ -89,20 +105,30 @@ Add Korean Auto Correct list
 
 ## 여러 오픈소스 행사 참여 관련
 
-### 1. 오픈소스 컨트리뷰톤 2020 행사 
+### Hacktoberfest 2023
+
+제가 본업과 가정일로 바빠서, 늦게나마 챙기고 있습니다.
+
+이번에는 HWP의 `빠른 교정`, MS Word의 `자동 고침` 내용도 비교하며 관리합니다.  
+
+
+#### Archive
+
+-  오픈소스 컨트리뷰톤 2020 행사 
 이번 행사로 리브레오피스 [QA의 Easy Hacks](https://wiki.documentfoundation.org/QA/Easy_Hacks) 에 [\[ko\] Extend Autocorrect list for Korean language](https://bugs.documentfoundation.org/show_bug.cgi?id=135727) 항목 추가를 하였습니다.
 
 이후 행사 기간동안 여러 낱말의 자동 교정 대상을 여러 참석하신 분께서 추가를 하였습니다.
 추가 내용은 아래와 같습니다. 
 
-* [\[ko\] add new autocorrect words for Korean](https://gerrit.libreoffice.org/c/core/+/100682)
-* tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100848](https://gerrit.libreoffice.org/c/core/+/100848)
-* tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100813](https://gerrit.libreoffice.org/c/core/+/100813)
-* tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100814](https://gerrit.libreoffice.org/c/core/+/100814)
-* tdf#135727 add Korean auto correct word [https://gerrit.libreoffice.org/c/core/+/100842](https://gerrit.libreoffice.org/c/core/+/100842)
-* tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100812](https://gerrit.libreoffice.org/c/core/+/100812)
+  * [\[ko\] add new autocorrect words for Korean](https://gerrit.libreoffice.org/c/core/+/100682)
+  * tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100848](https://gerrit.libreoffice.org/c/core/+/100848)
+  * tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100813](https://gerrit.libreoffice.org/c/core/+/100813)
+  * tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100814](https://gerrit.libreoffice.org/c/core/+/100814)
+  * tdf#135727 add Korean auto correct word [https://gerrit.libreoffice.org/c/core/+/100842](https://gerrit.libreoffice.org/c/core/+/100842)
+  * tdf#135727 add Korean Autocorrect list [https://gerrit.libreoffice.org/c/core/+/100812](https://gerrit.libreoffice.org/c/core/+/100812)
 
-### 2. 핵토버페스트(Hacktoberfest) 2020
+
+- 핵토버페스트(Hacktoberfest) 2020
 이번 행사에서는 앞서 행사와 다르게, 리브레오피스의 git저장소가 아닌 github 저장소를 만들어 진행합니다.
 
 그 이유는 많은 한국인 개발자들이 리브레오피스(LibreOffice)의 [gerrit 리뷰 시스템](gerrit.libreoffice.org/)에 익숙하지 않고, 빌드방법에 대해서도 익숙하지 않기 때문입니다.
