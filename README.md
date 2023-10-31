@@ -45,6 +45,15 @@
 
 얘를 들어, HWP(한글 워드)의 `도구 > 빠른 교정 > 빠른 교정 내용`에 나오는 내용이거나 MS Word의 `자동 고침`에 있는 내용에 한하여 추가하길 부탁드립니다.
 
+HWP(한글 워드)의 `도구 > 빠른 교정 > 빠른 교정 내용` 의 예
+
+<img width="552" alt="스크린샷 2023-10-02 오전 2 20 22" src="https://github.com/studioego/autocorr_kr/assets/20002/c11ed3a2-bbd2-481e-a8b9-71865d83adf1">
+
+MS Word의 `자동 고침`에 있는 예
+
+<img width="476" alt="스크린샷 2023-10-02 오전 12 01 21" src="https://github.com/studioego/autocorr_kr/assets/20002/29ab9bfc-48c9-4a8b-929d-2500708fc891">
+
+
 ##### 참고
 
 * [국립국어원 표준국어대사전](https://stdict.korean.go.kr/)
